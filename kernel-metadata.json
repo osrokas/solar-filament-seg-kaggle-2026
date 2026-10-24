@@ -1,0 +1,12 @@
+{
+  "id": "rokaspetraviius/yolo-detector-filament-segmentation-2026-v6",
+  "title": "yolo-detector-filament-segmentation-2026-v6",
+  "code_file": "notebooks/yolo_base.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": ["filament-segmentation-2026"]
+}
